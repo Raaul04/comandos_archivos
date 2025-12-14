@@ -17,3 +17,7 @@ npm install -D @types/bcryptjs
 npm install graphql
 npm install apollo-server
 npm install @graphql-tools/utils
+
+En la carpeta de linux
+Ctrl + H
+Y automáticamente debería aparecer el archivo .env
